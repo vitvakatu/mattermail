@@ -20,7 +20,7 @@
     "server",
     "utf7"
   ]
-  revision = "dc58f306f9a760d70f4eb628b3c1b5fa8a490b97"
+  revision = "886fecb8abbfbba92549221a8a217e6737a6137e"
 
 [[projects]]
   name = "github.com/emersion/go-imap-idle"
